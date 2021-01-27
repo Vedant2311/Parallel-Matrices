@@ -9,7 +9,7 @@ $ g++-7 mr-pr-cpp.cpp /usr/lib/x86_64-linux-gnu/libboost_system.a /usr/lib/x86_6
 ```
 
 The executable should be runnable as:
-``sh
+```sh
 ./mr-pr-cpp.o ${filename}.txt -o ${filename}-pr-cpp.txt. 
 ```
 
